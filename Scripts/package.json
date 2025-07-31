@@ -1,0 +1,31 @@
+{
+  "name": "youtube-subtitle-downloader",
+  "version": "1.0.0",
+  "description": "A Chrome extension to download subtitles from YouTube videos",
+  "keywords": [
+    "youtube",
+    "subtitles",
+    "chrome-extension",
+    "captions",
+    "srt",
+    "download"
+  ],
+  "author": "RajM012",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/youtube-subtitle-downloader"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/youtube-subtitle-downloader/issues"
+  },
+  "homepage": "https://github.com/yourusername/youtube-subtitle-downloader#readme",
+  "scripts": {
+    "start": "echo 'Run start_backend.bat (Windows) or ./start_backend.sh (Linux/macOS) to start the backend'",
+    "setup": "echo 'Run setup.bat (Windows) or ./setup.sh (Linux/macOS) to setup the project'",
+    "test": "echo 'No Node.js tests configured. This is a Python/Chrome Extension project.'"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
